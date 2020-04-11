@@ -1,0 +1,108 @@
+body :hover {
+  text-decoration: none;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+  margin-left: 55px;
+}
+
+.icono {
+  font-size: 25px;
+  color: #54b689;
+  margin-left: 30px;
+}
+
+.menu-icono {
+  font-size: 15px;
+  color: white !important;
+  margin-left: 30px;
+}
+
+.menu-icono:hover {
+  font-size: 15px;
+  color: #54b689 !important;
+  margin-left: 30px;
+}
+
+hr {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.hr-container-principal {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.option {
+  margin-left: 30px;
+}
+
+.img_presentation {
+  height: 270px;
+  width: 270px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.img_presentation:hover {
+  box-shadow: 1px 2px 9px 3px #6fa9dc;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.img_frontend {
+  height: 230px;
+  width: 230px;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+
+.title {
+  border-left: 5px solid #54b689;
+  padding-left: 10px;
+}
+
+.color-option {
+  background-color: #1e2a3a;
+}
+
+.color-principal {
+  background-color: #111821;
+}
+
+.mensaje-saludo {
+  margin-left: 35px;
+}
+
+.button-portafolio {
+  background-color: #54b689;
+  margin-left: 35px;
+}
+
+.button-portafolio:hover {
+  background-color: #54b689;
+  margin-left: 35px;
+}
+
+.text-student {
+  color: #6fa9dc;
+}
+
+.container-background {
+  background-color: #151e29;
+}
+
+.text-experience {
+  color: #54b689;
+}
+
+.boton-formulario {
+  background-color: #54b689;
+}
+
+.boton-formulario:hover {
+  background-color: #54b689;
+}
+
+span {
+  color: #54b689;
+}
